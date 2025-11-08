@@ -111,6 +111,11 @@ python "0.1 أسلوبي.py"
 
 تم تطوير هذا المشروع بواسطة [ayzem88](https://github.com/ayzem88)
 
+## التواصل
+
+للاستفسارات أو المساهمة، يمكنك التواصل معي عبر:
+- البريد الإلكتروني: [aymen.nji@gmail.com](mailto:aymen.nji@gmail.com)
+
 ## ملاحظات
 
 - البرنامج يحتاج إلى ملف `corrections.json` للعمل
