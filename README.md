@@ -30,7 +30,7 @@
 
 1. استنسخ المستودع:
 ```bash
-git clone https://github.com/ayzem88/المختار-الإملائي.git
+git clone https://github.com/ayzem88/style-checker.git
 cd المختار-الإملائي
 ```
 
